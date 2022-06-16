@@ -1,10 +1,13 @@
 # bot-whatsapp-1
 
-*------- INSTALACION --------*
+_------- * INSTALACION * --------_
 
 Modulos necesarios:
-  -whatsapp-web
-  $ npm i whatsapp-web.js
-  
-  -qrcode-terminal
-  $ npm i qrcode-terminal
+
+# whatsapp-web
+
+    $ npm i whatsapp-web.js
+
+# qrcode-terminal
+
+    $ npm i qrcode-terminal
